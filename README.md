@@ -1,11 +1,14 @@
 <h1 align="center">
-    Noughts and Crosses Game
+    React Players
 </h1>
 
-<br>
+
+
 ## 💻 Project
 
-Noughts and crosses game made using vanilla Javascript.
+Noughts and crosses game made using vanilla Javascript, HTML and CSS.
+
+
 ---
 
 Made with ♥ by JoaoAugustoPansani :wave: 
